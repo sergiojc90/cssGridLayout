@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    width: 550px;
+}
+
+.container{
+    background: turquoise;
+    width: 180px;
+    height: 180px;
+}
+
+.element{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.e1, .e2, .e3{
+    background: papayawhip;
+}
+
+
+.e4, .e5, .e6{
+    background: pink;
+}
+
+.e7, .e8, .e9{
+    background: powderblue;
+}
