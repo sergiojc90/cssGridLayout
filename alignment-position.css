@@ -1,3 +1,9 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+    width: 550px;
+}
 .container{
     background: turquoise;
     width: 180px;
@@ -5,8 +11,19 @@
     position: relative;
 }
 
-e{
+.e, .e1, .e2{
     width: 60px;
     height: 60px;
+}
+
+.e{
     background: papayawhip;
+}
+
+.e1{
+    background: pink;
+}
+
+.e2{
+    background: lightcyan;
 }
