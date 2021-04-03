@@ -1,27 +1,71 @@
-.e1{
+.container1{
+    background-color: turquoise;
+    text-align: left;
+    line-height: 180px;
+}
 
+.container2{
+    background-color: turquoise;
+    text-align: center;
+    line-height: 180px;
+}
+
+.container3{
+    background-color: turquoise;
+    text-align: right;
+    line-height: 180px;
+}
+
+.e1{
+    display: inline-block;
+    line-height: 45px;
+    vertical-align: top;
 }
 
 .e2{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
 }
 
 .e3{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: bottom;
 }
 
 .e4{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: top;
 }
 
 .e5{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
 }
 
 .e6{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: bottom;
 }
 
 .e7{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: top;
 }
 
 .e8{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
 }
 
 .e9{
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: bottom;
 }
