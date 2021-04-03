@@ -14,6 +14,9 @@
 .e, .e1, .e2{
     width: 60px;
     height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
 }
 
 .e{
@@ -26,4 +29,58 @@
 
 .e2{
     background: lightcyan;
+}
+
+.element1{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.element2{
+    position: absolute;
+    left: 0;
+    top: calc(50% - 30px);
+}
+
+.element3{
+    position: absolute;
+    left: 0;
+    top: calc(100% - 60px);
+}
+
+.element4{
+    position: absolute;
+    left: calc(50% - 30px);
+    top: 0;
+}
+
+.element5{
+    position: absolute;
+    left: calc(50% - 30px);
+    top: calc(50% - 30px);
+}
+
+.element6{
+    position: absolute;
+    left: calc(50% - 30px);
+    top: calc(100% - 60px);
+}
+
+.element7{
+    position: absolute;
+    left: calc(100% - 60px);
+    top: 0;
+}
+
+.element8{
+    position: absolute;
+    left: calc(100% - 60px);
+    top: calc(50% - 30px);
+}
+
+.element9{
+    position: absolute;
+    left: calc(100% - 60px);
+    top: calc(100% - 60px);
 }
