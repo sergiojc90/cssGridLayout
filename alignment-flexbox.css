@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https:fonts.googleapis.com/css2?family=Lato&display=swap');
 
 .wrapper {
   display: grid;
@@ -35,61 +35,55 @@
 }
 
 .container1 {
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: start;
+    align-items: flex-start;
 }
 
 .container2 {
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: start;
+    align-items: center;
 }
 
 .container3 {
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
 }
 
 .container4 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .container5 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container6 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .container7 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
 }
 
 .container8 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 .container9 {
-  
-  display: flex;
-  // justify-content: ;
-  // align-items: ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
 }
