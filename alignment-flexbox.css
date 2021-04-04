@@ -23,78 +23,72 @@
 }
 
 .element1 {
-  @extend .element;
   background: papayawhip;
 }
 
 .element2 {
-  @extend .element;
   background: pink;
 }
 
 .element3 {
-  @extend .element;
   background: lightcyan;
 }
 
 .container1 {
-  @extend .container;
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container2 {
-  @extend .container;
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container3 {
-  @extend .container;
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container4 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container5 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container6 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container7 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container8 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
 }
 
 .container9 {
-  @extend .container;
+  
   display: flex;
   // justify-content: ;
   // align-items: ;
