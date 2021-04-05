@@ -6,3 +6,11 @@
     --black: #00243a;
     --white: #fff;
   }
+
+  .head{
+      width: 50px;
+      height: 250px;
+      background: var(--skin);
+      border-radius: 50px;
+      
+  }
